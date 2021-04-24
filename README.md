@@ -3,4 +3,4 @@ Hackathon WINNING Submission (2nd place) @ SocioThon 2021 by IIT Roorkee (Nation
 
 Implemented a search for best economic alternative to medicines.
 Website deployed at: http://iamaj69.pythonanywhere.com/
-Members : Ashmik Harinkhede, Ajit Singh, Ankit Kumar, Samridh Singh
+Members : Ajit Singh, Ashmik Harinkhede,  Ankit Kumar, Samridh Singh
